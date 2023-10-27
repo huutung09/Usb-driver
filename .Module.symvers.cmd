@@ -1,0 +1,1 @@
+cmd_/home/tung/Documents/usbDriverProject/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/tung/Documents/usbDriverProject/Module.symvers -T /home/tung/Documents/usbDriverProject/modules.order -i Module.symvers -e 
